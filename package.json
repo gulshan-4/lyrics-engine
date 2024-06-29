@@ -1,0 +1,31 @@
+{
+  "name": "lyrics-engine",
+  "version": "1.0.0",
+  "description": "A Simplest and most powerful Search Engine/Scrapper",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gulshan-4/lyrics-scraper.git"
+  },
+  "homepage": "#",
+  "keywords": [
+    "scraper",
+    "lyrics-scraper",
+    "genius-lyrics-scraper",
+    "genius-lyrics",
+    "genius-scraper"
+  ],
+  "author": "FantoX",
+  "license": "ECL-2.0",
+  "dependencies": {
+    "@types/node": "^20.10.4",
+    "axios": "^1.6.2",
+    "cheerio": "^1.0.0-rc.12",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.3.2"
+  }
+}
