@@ -55,7 +55,6 @@ const getLyrics = async (query) => {
             });
         }
 
-        console.log(songsWithLyrics);
         return songsWithLyrics;
     } catch (err) {
         console.error('Error in getLyrics:', err); // Added log

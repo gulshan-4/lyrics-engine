@@ -4,7 +4,6 @@ const fetchData = async function (searchTerm) {
     try {
         const encodedTerm = encodeURIComponent(searchTerm);
         const target = "https://genius.com/api/search/multi?q=" + encodedTerm;
-        console.log('Fetching URL:', target); // Added log
         const res = await axios.get(target);
 
         if (res.status === 200) {

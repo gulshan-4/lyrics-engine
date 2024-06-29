@@ -1,7 +1,7 @@
 {
-  "name": "lyrics-engine",
-  "version": "1.0.0",
-  "description": "A Simplest and most powerful Search Engine/Scrapper",
+  "name": "@gulshan-4/lyrics-engine",
+  "version": "1.0.1",
+  "description": "A Simplest and most powerful Lyrics Search Engine/Scrapper",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "scripts": {
@@ -9,9 +9,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/gulshan-4/lyrics-scraper.git"
+    "url": "git+https://github.com/gulshan-4/lyrics-engine.git"
   },
-  "homepage": "#",
+  "homepage": "https://github.com/gulshan-4/lyrics-engine",
   "keywords": [
     "scraper",
     "lyrics-scraper",
@@ -27,5 +27,12 @@
     "cheerio": "^1.0.0-rc.12",
     "ts-node": "^10.9.1",
     "typescript": "^5.3.2"
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "devDependencies": {},
+  "bugs": {
+    "url": "https://github.com/gulshan-4/lyrics-engine/issues"
   }
 }
