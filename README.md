@@ -118,7 +118,7 @@ main();
 
 # Support me
 
-- If you appreciate my project, please consider <a href="https://buymeacoffee.com/gulshan.4"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="32"></a>.
+- If you appreciate my project, please consider <a href="https://buymeacoffee.com/gulshan.4"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="32" align="center"></a>.
 - Please follow me on GitHub to get notified about my upcoming projects.
 
 <br />
