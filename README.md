@@ -118,7 +118,7 @@ main();
 
 # Support me
 
-- If you appreciate my project, please consider giving it a ⭐️.
+- If you appreciate my project, please consider [![Buy Me A Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://buymeacoffee.com/gulshan.4).
 - Please follow me on GitHub to get notified about my upcoming projects.
 
 <br />
